@@ -118,7 +118,7 @@ class ResourceAccountRecovery(DAMCoreResource): #configuració recuperacio contr
             #sending mail
             smpt_server = "smtp.gmail.com"
             sender_email = "anoia-shopping.tic@gmail.com"
-            password = ""
+            password = "fvawllyojacxjare"
             
             #correu que enviarem
             html = """\
